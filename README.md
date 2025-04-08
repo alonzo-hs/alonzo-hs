@@ -21,7 +21,7 @@ Soy un desarrollador de sistemas con experiencia en desarrollo web, DevOps, auto
 
 <p align='center'></p>
 
- <img src="https://scontent.faqp3-1.fna.fbcdn.net/v/t39.30808-6/489560759_2655119678020328_6156799612019765288_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGJVc9TQ0-q-WAtTnOIY04uivcMEEa75rqK9wwQRrvmuqJQr_X72ZkxJXeh_7IDZ9O2cRj9NCkg8_BKozwoJR7u&_nc_ohc=w-UaXw1x8oIQ7kNvwG1RtKf&_nc_oc=Adn3eUH-7yh5N7NP9ubIm48mDdstdCcukkHkjn_-6yBtdwaCpYpOt3zW2bd3iOXAjgiU_uGOYL51OVfvAZPtIvBV&_nc_zt=23&_nc_ht=scontent.faqp3-1.fna&_nc_gid=S_9kddb7PLS59oryc4kFpw&oh=00_AfFZmtq5dHj67JtgzoIBshTlfC8_AomwdOYEuMnO0OzYow&oe=67FA85DA" >
+ <img alingn="center" src="https://scontent.faqp3-1.fna.fbcdn.net/v/t39.30808-6/489560759_2655119678020328_6156799612019765288_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGJVc9TQ0-q-WAtTnOIY04uivcMEEa75rqK9wwQRrvmuqJQr_X72ZkxJXeh_7IDZ9O2cRj9NCkg8_BKozwoJR7u&_nc_ohc=w-UaXw1x8oIQ7kNvwG1RtKf&_nc_oc=Adn3eUH-7yh5N7NP9ubIm48mDdstdCcukkHkjn_-6yBtdwaCpYpOt3zW2bd3iOXAjgiU_uGOYL51OVfvAZPtIvBV&_nc_zt=23&_nc_ht=scontent.faqp3-1.fna&_nc_gid=S_9kddb7PLS59oryc4kFpw&oh=00_AfFZmtq5dHj67JtgzoIBshTlfC8_AomwdOYEuMnO0OzYow&oe=67FA85DA" >
 
  
 
