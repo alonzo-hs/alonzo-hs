@@ -1,3 +1,6 @@
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="TienHuynh-TN | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
+
+
 ## Hi there 👋
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <!--
