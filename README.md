@@ -1,6 +1,7 @@
 <h3 align="center"
 
  Hi I'm Alonzo Huamani👋
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
  </h3>
 <p align='center'></p>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
