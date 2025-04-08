@@ -1,14 +1,14 @@
-<h3 align="center"
+<h2 align="center"
 
  Hi I'm Alonzo Huamani👋
  
- </h3>
+ </h2>
  
- <h3 align="center">
+ <h1 align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
   
- </h3>
+ </h1>
  
 <p align='center'></p>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
