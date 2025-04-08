@@ -2,11 +2,12 @@
 
  Hi I'm Alonzo Huamani👋
  </h3>
-
+<p align='center'>
+<a></a>
  <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
- <p align='center'>
  
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+ 
+
 <!--
 **alonzo-hs/alonzo-hs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
