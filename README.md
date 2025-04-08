@@ -2,6 +2,7 @@
 
  Hi I'm Alonzo Huamani👋
  </h3>
+ <p align='center'>
  
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <!--
