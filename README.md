@@ -5,8 +5,7 @@
  </h2>
  
  <h1 align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Micro+5&size=35&pause=1000&center=true&vCenter=true&width=470&lines=DESARROLLADOR+MOVIL;DESARROLLO+FRONT+END;DESARROLLO+BACK+END;ANALISTA+DE+DATOS" alt="Typing SVG" /></a>
   
  </h1>
  
